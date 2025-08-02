@@ -38,8 +38,8 @@
 ### Python Dependencies
 
 ```bash
-git clone https://github.com/yourusername/cyberswiss.git
-cd cyberswiss
+git clone https://github.com/yourusername/crybern.git
+cd crybern
 pip install -r requirements.txt
 ```
 
@@ -74,7 +74,7 @@ python3 main.py whois example.org
 ## Directory Structure
 
 ```
-cyberswiss/
+crybern/
 ├── main.py
 ├── requirements.txt
 ├── README.md
