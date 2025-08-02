@@ -1,10 +1,10 @@
-# 🛡️ cyberswiss
+# cyberswiss
 
 > A lightweight and modular Cybersecurity CLI Toolkit for ethical hackers, pentesters, and researchers — built with Python and C++.
 
 ---
 
-## 📦 Overview
+## Overview
 
 **cyberswiss** is a command-line based toolkit that provides essential cybersecurity utilities in one place — think of it as your Swiss Army Knife for the terminal. Built with extensibility in mind, it includes tools for:
 
@@ -20,7 +20,7 @@ Perfect for students, ethical hackers, CTF players, and cybersecurity enthusiast
 
 ---
 
-## 🧰 Features
+## Features
 
 | Tool                     | Description                                      |
 |--------------------------|--------------------------------------------------|
@@ -34,9 +34,9 @@ Perfect for students, ethical hackers, CTF players, and cybersecurity enthusiast
 
 ---
 
-## 🚀 Installation
+## Installation
 
-### 🔧 Python Dependencies
+### Python Dependencies
 
 ```bash
 git clone https://github.com/yourusername/cyberswiss.git
@@ -44,7 +44,7 @@ cd cyberswiss
 pip install -r requirements.txt
 ```
 
-### 🛠️ Compile C++ Tools (Optional)
+### Compile C++ Tools (Optional)
 
 ```bash
 g++ cpp_tools/base64_tool.cpp -o base64_tool -lssl -lcrypto
@@ -52,7 +52,7 @@ g++ cpp_tools/base64_tool.cpp -o base64_tool -lssl -lcrypto
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 ```bash
 python3 main.py <command> [options]
@@ -72,7 +72,7 @@ python3 main.py whois example.org
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 cyberswiss/
@@ -92,7 +92,7 @@ cyberswiss/
 
 ---
 
-## 📌 Roadmap
+## Roadmap
 
 - [ ] Add Ping Sweep tool (Python or raw socket in C++)
 - [ ] Add CVE checker via API
@@ -102,24 +102,24 @@ cyberswiss/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! If you'd like to contribute a new tool or improve an existing one, feel free to fork the project and submit a PR.
 
 ---
 
-## ⚠️ Legal Disclaimer
+## Legal Disclaimer
 
 This toolkit is intended **only for educational and authorized penetration testing** purposes. The developer is not responsible for any misuse of this software.
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
-Made with ❤️ by [mitronique](https://github.com/mitronique)
+[mitronique](https://github.com/mitronique)
 
 ---
 
-## 🌍 License
+## License
 
 MIT License
