@@ -1,4 +1,4 @@
-# cyberswiss
+# crybern
 
 > A lightweight and modular Cybersecurity CLI Toolkit for ethical hackers, pentesters, and researchers — built with Python and C++.
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-**cyberswiss** is a command-line based toolkit that provides essential cybersecurity utilities in one place — think of it as your Swiss Army Knife for the terminal. Built with extensibility in mind, it includes tools for:
+**crybern** is a command-line based toolkit that provides essential cybersecurity utilities in one place — think of it as your Swiss Army Knife for the terminal. Built with extensibility in mind, it includes tools for:
 
 - 🔍 Port scanning  
 - 🌐 Subdomain enumeration  
@@ -16,7 +16,6 @@
 - 🧠 Custom password dictionary generation  
 - ☁️ Ping sweeping *(coming soon)*
 
-Perfect for students, ethical hackers, CTF players, and cybersecurity enthusiasts.
 
 ---
 
